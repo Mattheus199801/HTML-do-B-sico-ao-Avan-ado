@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #7fffd4;
+    color: #4b3930;
+    font-size: 2em;
+    text-align: center;
+    margin: 2em;
+    padding: 2em;
+    border: 1em solid #000000;
+}
+
+h1 {
+    color: #e22f0fef;
+}
+
+mark {
+    color: #ff0000;
+    background-color: #f0f8ff;
+    
+}
