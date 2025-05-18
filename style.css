@@ -3,12 +3,15 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     background-color: #7fffd4;
-    color: #4b3930;
+    color: #ddda0b;
     font-size: 2em;
     text-align: center;
     margin: 2em;
     padding: 2em;
     border: 1em solid #000000;
+    background-image: url(img/teste.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 h1 {
@@ -19,4 +22,28 @@ mark {
     color: #ff0000;
     background-color: #f0f8ff;
     
+}
+
+h2 {
+    color: #ffa600ef;
+}
+
+h3 {
+    color: #00ff2aef;
+}
+
+h4 {
+    color: #060af0ef;
+}
+
+h5 {
+    color: #0063f7ef;
+}
+
+h6 {
+    color: #04e8f0ef;
+}
+
+pre {
+    color: #ff0000;
 }
